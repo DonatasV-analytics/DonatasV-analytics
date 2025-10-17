@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Donatas
 
-<!--
-**DonatasV-analytics/DonatasV-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst specialising in business and financial analytics.
+I enjoy turning raw data into business insights that drive data-based decisions and real growth.
 
-Here are some ideas to get you started:
+# 💼 Key Skills
+- Data Analysis: Excel, SQL, Python (Pandas, Matplotlib)
+- Visualization: IBM Cognos, Tableau
+- Business Focus: Financial performance analysis, KPI reporting, cost optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 Featured Projects
+- [...](link_here)
+- [...](link_here)
+- [...](link_here)
+- [...](link_here)
+
+# 🎯 What I’m working on
+- Improving my data analytics skills using tools such as SQL, Python
+- Building a business performance dashboard from real datasets
+- Connecting with businessed to deliver useful data-driven insights
