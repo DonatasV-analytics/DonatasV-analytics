@@ -43,4 +43,4 @@ The dashboard was built in **Google Looker Studio** and includes the following s
 ---
 
 ### 🖼️ Dashboard Preview
-![IBM Dashboard Preview](dashboard_preview.png)
+![IBM Dashboard Preview](DonatasV-analytics/dashboard_preview.png)
