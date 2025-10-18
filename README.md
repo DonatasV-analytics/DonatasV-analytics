@@ -9,7 +9,7 @@ I enjoy turning raw data into business insights that drive data-based decisions 
 - Business Focus: Financial performance analysis, KPI reporting, cost optimization
 
 # 📊 Featured Projects
-- [...](link_here)
+- [Beverage Sales Exploratory Data Analysis](https://github.com/DonatasV-analytics/DonatasV-analytics/blob/main/Beverage_sales.ipynb)
 - [...](link_here)
 - [...](link_here)
 - [...](link_here)
