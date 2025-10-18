@@ -10,7 +10,7 @@ I enjoy turning raw data into business insights that drive data-based decisions 
 
 # 📊 Featured Projects
 - [Beverage Sales Exploratory Data Analysis](https://github.com/DonatasV-analytics/DonatasV-analytics/blob/main/Beverage_sales.ipynb)
-- [...](link_here)
+- [Interactive IBM Data Analyst Capstone Project Dashboard](https://lookerstudio.google.com/s/iRPAB_6Vw1w)
 - [...](link_here)
 - [...](link_here)
 
