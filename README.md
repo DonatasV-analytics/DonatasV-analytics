@@ -5,7 +5,7 @@ I enjoy turning raw data into business insights that drive data-based decisions 
 
 # 💼 Key Skills
 - Data Analysis: Excel, SQL, Python (Pandas, Matplotlib)
-- Visualization: IBM Cognos, Tableau
+- Visualization: IBM Cognos, Tableau, Google Looker
 - Business Focus: Financial performance analysis, KPI reporting, cost optimization
 
 # 📊 Featured Projects
