@@ -9,8 +9,8 @@ I enjoy turning raw data into business insights that drive data-based decisions 
 - Business Focus: Financial performance analysis, KPI reporting, cost optimization
 
 # 📊 Featured Projects
-- [Excel Car Sales by Model](CarSalesByModel.xlsx)
-- [Excel US Car Sale Dashboard](Car_Sales_Kaggle.xlsx)
+- [Excel Car Sales by Model](excel-projects/CarSalesByModel.xlsx)
+- [Excel US Car Sale Dashboard](excel-projects/Car_Sales_Kaggle.xlsx)
 - [Beverage Sales Exploratory Data Analysis](https://github.com/DonatasV-analytics/DonatasV-analytics/blob/main/Beverage_sales.ipynb)
 - [Interactive IBM Data Analyst Capstone Project Dashboard](https://lookerstudio.google.com/s/iRPAB_6Vw1w)
 - [...](link_here)
