@@ -18,8 +18,8 @@ My work focuses on financial performance analysis and cost optimization, using t
 - [...](link_here)
 
 # Currently Learning
-Advanced SQL for business analytics
+- Advanced SQL for business analytics
 
-Automating financial reports using Python
+- Automating financial reports using Python
 
-Data storytelling and dashboard design best practices
+- Data storytelling and dashboard design best practices
