@@ -1,10 +1,10 @@
-Online Shop Sales Analysis
-Project Overview
+# Online Shop Sales Analysis
+# Project Overview
 
 This project explores an online retail dataset to uncover patterns in sales, discounts, and shipping behavior.
 The analysis focuses on data cleaning, exploratory data analysis (EDA), and insight generation to better understand key business factors affecting sales performance.
 
-Data Cleaning
+# Data Cleaning
 
 Several columns contained missing values, primarily linked to In-store purchases.
 The following replacements were applied:
@@ -26,7 +26,7 @@ WarehouseLocation – replaced with “Unknown”
 Result: 0 missing values
 No duplicates found
 
-Exploratory Analysis
+# Exploratory Analysis
 
 Discount Analysis:
 Most discounts were found in Furniture and Electronics categories.
@@ -40,7 +40,7 @@ No significant outliers were detected.
 Sales Channel Observations:
 Online and In-store channels showed differing return rates, analyzed via a stacked column visualization.
 
-Tools & Libraries
+# Tools & Libraries
 
 Python
 
@@ -50,7 +50,7 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-Key Insights
+# Key Insights
 
 Shipping providers perform similarly in cost efficiency.
 
